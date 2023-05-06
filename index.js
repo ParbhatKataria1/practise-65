@@ -20,7 +20,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://perfect-underwear-dove.cyclic.app/", // change
+        url: "https://perfect-underwear-dove.cyclic.app", // change
       },
     ],
   },
