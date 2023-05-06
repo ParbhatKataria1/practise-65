@@ -20,7 +20,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:4500", // change
+        url: "https://perfect-underwear-dove.cyclic.app/", // change
       },
     ],
   },
